@@ -22,12 +22,22 @@
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/JagdishChauhan/JagdishChauhan/04d13dc0a2a67eae6d775604b9cea1d868c85907/assets/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/JagdishChauhan/JagdishChauhan/537144bc176becccb0e92d03a7734cd876c8fb50/assets/redux-original.svg" alt="redux" width="40" height="40"/></a> 
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/JagdishChauhan/JagdishChauhan/646a305efd9152357b0897bf8708c93f39eb8d51/assets/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
+<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JagdishChauhan&show_icons=true&locale=en&layout=compact" alt="JagdishChauhan" /></p>
 
+
 <p style="padding:4px"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JagdishChauhan&show_icons=true&locale=en" alt="JagdishChauhan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JagdishChauhan&" alt="JagdishChauhan" /></p>
               
