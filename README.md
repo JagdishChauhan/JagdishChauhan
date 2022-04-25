@@ -1,4 +1,6 @@
+
 <h1 align="center">Hello there <img src="https://github.com/JagdishChauhan/JagdishChauhan/blob/main/assets/wave.gif?raw=true" width="30px">, I'm Jagadish</h1>
+
 <h3 align="center"/>Full Stack Developer at Greycell Pvt. Ltd.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagdishChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="JagdishChauhan" /> </p>
@@ -31,13 +33,15 @@
 <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/JagdishChauhan/JagdishChauhan/dccc0e63dcd5f35445c4aff984495e3370c5cdfe/assets/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 
-<div style="margin:5px;" >
 
+
+<p>
+  
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JagdishChauhan&show_icons=true&locale=en&layout=compact" alt="JagdishChauhan" /> </p>
 
-  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JagdishChauhan&show_icons=true&locale=en" alt="JagdishChauhan" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=JagdishChauhan&show_icons=true&locale=en" alt="JagdishChauhan" /> </p>
 
-</div>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JagdishChauhan&" alt="JagdishChauhan" /></p>
-              
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JagdishChauhan&" alt="JagdishChauhan" /> </p>
+             
