@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagdishChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="JagdishChauhan" /> </p>
 
-<p align="center">
+<div> <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=JagdishChauhan&margin-w=1" />
-</p>
+</p> </div>
 
 
 - 🔭 I’m currently working on [BidClips](https://bidclips.com/)
