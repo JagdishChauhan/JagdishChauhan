@@ -3,10 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagdishChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="JagdishChauhan" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=JagdishChauhan" alt="JagdishChauhan" /></a> </p> -->
-
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=JagdishChauhan" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=JagdishChauhan&margin-w=15" />
 </p>
 
 
