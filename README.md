@@ -31,12 +31,13 @@
 <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/JagdishChauhan/JagdishChauhan/dccc0e63dcd5f35445c4aff984495e3370c5cdfe/assets/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 
-<p style="margin:5px;" >
+<div style="margin:5px;" >
 
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JagdishChauhan&show_icons=true&locale=en&layout=compact" alt="JagdishChauhan" /> </p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JagdishChauhan&show_icons=true&locale=en" alt="JagdishChauhan" /> </p>
 
-</p>
+  <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JagdishChauhan&show_icons=true&locale=en" alt="JagdishChauhan" /> </p>
+
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JagdishChauhan&" alt="JagdishChauhan" /></p>
               
