@@ -1,7 +1,14 @@
+<h1 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> Moved to @jagadish-chauhan </a> </h1>
 
-<h1 align="center">Hello there <img src="https://github.com/JagdishChauhan/JagdishChauhan/blob/main/assets/wave.gif?raw=true" width="30px">, I'm Jagadish</h1>
+---
 
-<h3 align="center"/>Full Stack Developer at Greycell Pvt. Ltd.</h3>
+<h2 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> This is Depricated </a> </h2>
+
+---
+
+<h3 align="center">Hello there <img src="https://github.com/JagdishChauhan/JagdishChauhan/blob/main/assets/wave.gif?raw=true" width="30px">, I'm Jagadish</h3>
+
+<h4 align="center"/>Full Stack Developer at Greycell Pvt. Ltd.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JagdishChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="JagdishChauhan" /> </p>
 
