@@ -1,8 +1,7 @@
-<h1 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> Moved to @jagadish-chauhan </a> </h1>
 
----
+<h4 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> This GitHub profile has been moved from here. </a> </h4>
 
-<h2 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> This is Depricated </a> </h2>
+<h1 align="center"> <a href="https://github.com/jagadish-chauhan" target="_blank"> Please visit @jagadish-chauhan </a> </h1>
 
 ---
 
